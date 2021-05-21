@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractChallanges/AbstractChallanges.iml" filepath="$PROJECT_DIR$/AbstractChallanges/AbstractChallanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generitics/Generitics.iml" filepath="$PROJECT_DIR$/Generitics/Generitics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scope/Scope.iml" filepath="$PROJECT_DIR$/Scope/Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces.iml" filepath="$PROJECT_DIR$/interfaces.iml" />
+    </modules>
+  </component>
+</project>
